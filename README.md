@@ -1,6 +1,6 @@
 # lite-fps-meter
 
-[![npm version](https://img.shields.io/npm/v/lite-framerate.svg?style=for-the-badge&color=latest)](https://www.npmjs.com/package/lite-fps-meter)
+[![npm version](https://img.shields.io/npm/v/lite-fps-meter.svg?style=for-the-badge&color=latest)](https://www.npmjs.com/package/lite-fps-meter)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/lite-fps-meter?style=for-the-badge)](https://bundlephobia.com/result?p=lite-fps-meter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
