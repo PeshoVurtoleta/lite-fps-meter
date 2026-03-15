@@ -2,11 +2,18 @@
 
 [![npm version](https://img.shields.io/npm/v/lite-fps-meter.svg?style=for-the-badge&color=latest)](https://www.npmjs.com/package/lite-fps-meter)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/lite-fps-meter?style=for-the-badge)](https://bundlephobia.com/result?p=lite-fps-meter)
+[![npm downloads](https://img.shields.io/npm/dm/lite-fps-meter?style=for-the-badge&color=blue)](https://www.npmjs.com/package/lite-fps-meter)
+[![npm total downloads](https://img.shields.io/npm/dt/lite-fps-meter?style=for-the-badge&color=blue)](https://www.npmjs.com/package/lite-fps-meter)
+![TypeScript](https://img.shields.io/badge/TypeScript-Types-informational)
+![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 A lightweight, zero-dependency FPS monitor that renders a real-time graph overlay on a canvas element.
 
 Drop it into any web project during development to spot jank, profile animations, or verify you're hitting your target frame rate. Auto-detects the display refresh rate (60Hz, 120Hz, 144Hz, etc.) and adapts thresholds automatically.
+
+## 🎬 Live Demo (SmartObserver)
+https://codepen.io/Zahari-Shinikchiev/debug/LERWgyQ
 
 ## Features
 
