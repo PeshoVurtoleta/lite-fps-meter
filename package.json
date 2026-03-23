@@ -1,7 +1,7 @@
 {
   "name": "lite-fps-meter",
   "author": "Zahary Shinikchiev <shinikchiev@yahoo.com>",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lightweight visual FPS monitor with auto-refresh-rate detection, compact mode, theming, and zero dependencies.",
   "type": "module",
   "main": "FPSMeter.js",
@@ -16,6 +16,7 @@
   "files": [
     "FPSMeter.js",
     "FPSMeter.d.ts",
+    "llms.txt",
     "README.md"
   ],
   "scripts": {
